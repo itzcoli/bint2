@@ -41,6 +41,16 @@ print(binary)
 
 
 
+## Installation
+
+first you have to download the .tar.gz source file in relase.
+
+It's very easy can be installed.
+
+```bash
+  pip install <path_to_tar_gz>
+```
+    
 ## Features
 
 - Binary to decimal
@@ -50,5 +60,4 @@ print(binary)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
 

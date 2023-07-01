@@ -1,6 +1,9 @@
 from bint2 import *
 while True:
-  a = input('>input')
-  b = BinTodec(a)
-  print(b)
+  try:
+    a = int(input('>input'))
+    b = BinTodec(a)
+    print(b)
+  except:
+    print('only integers')
   

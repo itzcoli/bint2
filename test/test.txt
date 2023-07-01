@@ -1,0 +1,3 @@
+BIN_DEC.py is a mini script to transform binary to decimal.
+DEC_BIN.py is a mini script to transform from decimal to binary.
+

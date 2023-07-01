@@ -1,4 +1,4 @@
-import bint2
+from bint2 import *
 while True:
   try:
     a = int(input('>input'))

@@ -6,7 +6,23 @@ Bint2 is a set of two functions to convert decimal to binary or binary to decima
 
 
 
+## Installation
+
+first you have to download the .tar.gz source file in relase.
+
+It's very easy can be installed.
+
+```bash
+  pip install <path_to_tar_gz>
+```
+    
 ## Usage/Examples
+
+before using the functions you need to import the library.
+
+```python
+import bint2
+```
 
 It is divided into two functions, each with a different function.
 
@@ -41,16 +57,6 @@ print(binary)
 
 
 
-## Installation
-
-first you have to download the .tar.gz source file in relase.
-
-It's very easy can be installed.
-
-```bash
-  pip install <path_to_tar_gz>
-```
-    
 ## Features
 
 - Binary to decimal

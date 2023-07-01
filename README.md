@@ -21,7 +21,7 @@ It's very easy can be installed.
 before using the functions you need to import the library.
 
 ```python
-import bint2
+from bint2 import *
 ```
 
 It is divided into two functions, each with a different function.
@@ -39,14 +39,14 @@ BinTodec()
 # Examples
 
 ```python
-import bint2
+from bint2 import *
 
 binary = DecTobin(<only integer's>)
 print(binary)
 
 ```
 ```python
-import bint2
+from bint2 import *
 
 binary = DecTobin(15)
 print(binary)
